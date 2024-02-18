@@ -1,4 +1,4 @@
-#switcher {
+/* #switcher {
 	background: #fff;
 	position: fixed;
 	display: none;
@@ -152,7 +152,7 @@
 }
 
 /** ============ **/
-#switcher .switcher_thumb {
+/* #switcher .switcher_thumb {
 	display:inline-block;
 	margin:4px 3px;
 }
@@ -196,4 +196,4 @@
 #switcher .purchase i {
 	padding-right: 10px;
 
-}
+}   */
